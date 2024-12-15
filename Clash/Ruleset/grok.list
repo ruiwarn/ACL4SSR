@@ -1,0 +1,12 @@
+# 内容：Grok & xAI
+# 数量：8条
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,ide.x.ai
+DOMAIN-SUFFIX,xai.ai
+DOMAIN-SUFFIX,xai.com
+DOMAIN-SUFFIX,api.x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,chat.x.ai
+DOMAIN-SUFFIX,x.com/i/grok
+
